@@ -15,7 +15,7 @@ With 5 years of self-taught programming experience, I bring expertise in program
 I am actively seeking opportunities in Google IT-related fields, as well as in backend and front-end development, and automation roles. If you are in search of a dedicated and enthusiastic team member, please feel free to reach out to me.
 
 ## Continued Learning and Certifications
-Please refer to my public Google profile for details regarding my certifications. I have completed business courses at Cochise College and pursued expedited courses on Coursera.
+Please refer to my public Google profile for details regarding my certifications. 
 
 ## Contact Me
 - **Email:** HoneyBeaver206@protonmail.com
