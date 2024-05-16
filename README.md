@@ -1,8 +1,8 @@
 # Raymundo Ramonet Barrera
 
 ## Skills
-- **Programming Languages:** JavaScript, HTML, CSS, Python, Rust, YAML, JSON
-- **Technologies:** Node.js, Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Kubernetes, Next.js, React, Prisma, GraphQL
+- **Programming Languages:** JavaScript, HTML, CSS, Python, Rust, YAML, JSON, Next.js, React, Prisma, GraphQL
+- **Technologies:** Node.js, Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Kubernetes, Raspberry pi zero - 4, Arduino
 - **Soft Skills:** Communication, Problem-solving, Teamwork, Adaptability, Time Management
 
 ## Interests
