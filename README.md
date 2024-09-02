@@ -1,4 +1,4 @@
-# Raymundo Ramonet Barrera
+# Honey Beaver - Work name & Account
 
 ## Skills
 - **Programming Languages:** JavaScript, HTML, CSS, Python, Rust, YAML, JSON, Next.js, React, Prisma, GraphQL, Latex, Ruby, Go
@@ -14,13 +14,9 @@ With 5 years of self-taught programming experience, I bring expertise in program
 ## Looking to be Hired
 I am actively seeking opportunities in Google IT-related fields, as well as in backend and front-end development, and automation roles. If you are in search of a dedicated and enthusiastic team member, please feel free to reach out to me.
 
-## Continued Learning and Certifications
-Please refer to my public Google profile for details regarding my certifications. 
 
 ## Contact Me
 - **Email:** HoneyBeaver206@protonmail.com
-- **LinkedIn:** [Raymundo Ramonet Barrera](https://www.linkedin.com/in/raymundo-ramonet-barrera-5a1313307/)
-- **Google Public Profile:** [Raymundo's Google Profile](https://career.skills.google/public_profiles/6b569808-897f-4d91-9a74-d746453e06fa)
 - **Personal/Portfolio Website:** Currently being developed
 
 Feel free to connect with me! I am open to collaboration and new opportunities.
